@@ -110,7 +110,7 @@ Use this command to fix **Stylelint** Errors:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Javier Aybar**
+👤 **Marc raphael**
 
 - GitHub: [@Marcraphael12](https://github.com/Marcraphael12)
 - LinkedIn: [@Marcraphael12](https://www.linkedin.com/in/marc-raphael-essogo-bidzogo)
