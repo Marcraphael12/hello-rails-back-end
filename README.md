@@ -26,7 +26,7 @@
 
 ## 🛠 Built With <a name="built-with"></a>
 
-<a href="https://github.com/Marcraphael12/hello-react-front-end/tree/setup-front-end">See the React Application</a>
+<a href="https://github.com/Marcraphael12/hello-react-front-end">See the React Application</a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
